@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Ingles**
 
-- 💬 Preguntame sobre **Javascript, React.js, Redux.js, Node.js, Express, sql, postgres**
+- 💬 Preguntame sobre **Javascript, React.js, Redux.js, Node.js, Express, sql, Postgresql**
 
 - 📫 Como contactarme **lucas.gher96@gmail.com**
 
