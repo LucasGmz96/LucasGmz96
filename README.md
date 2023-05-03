@@ -1,7 +1,7 @@
 <h1>Hola, mi nombre es Lucas!</h1>
 <h3>Un apasionado desarrollador Fullstack</h3>
 
-- 🔭 Actualmente estoy trabajando en [Vitality Medical group](https://www.google.com/)
+- 🔭 Actualmente estoy trabajando en [Vitality Medical group](https://vitality-medical-group.vercel.app/)
 
 - 🌱 Actualmente estoy aprendiendo **Ingles**
 
