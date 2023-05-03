@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Vitality Medical group](https://vitality-medical-group.vercel.app/)
 
-- 🌱 Actualmente estoy aprendiendo **Ingles**
+- 🌱 Actualmente estoy aprendiendo **Ingles!**
 
 - 💬 Preguntame sobre **Javascript, React.js, Redux.js, Node.js, Express, sql, Postgresql**
 
